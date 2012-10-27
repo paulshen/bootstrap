@@ -1,0 +1,13 @@
+{
+    "name": "mnml0"
+  , "version": "0.0.1"
+  , "author": "Paul Shen <paul@mnml0.com>"
+  , "scripts": {
+      "start": "node app.js"
+    }
+  , "dependencies": {
+      "express": ">= 3.0.x"
+    , "ejs":     ">= 0.8.2"
+    , "express-ejs-layouts": ">= 0.1.0"
+    }
+}
